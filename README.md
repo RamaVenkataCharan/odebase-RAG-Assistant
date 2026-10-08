@@ -1,1 +1,1 @@
-# odebase-RAG-Assistant
+# codebase-RAG-Assistant
